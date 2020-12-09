@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "9deb4d-37d-4ad-9dd-2b0db6",
+  "mongoUri": "mongodb+srv://guest:passwordForGuest@cluster0.hlszo.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
